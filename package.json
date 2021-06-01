@@ -1,0 +1,31 @@
+{
+  "name": "dev-platform",
+  "version": "1.0.0",
+  "description": "A platform where anyone can create their developer profile.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnupamKP/dev-platform.git"
+  },
+  "keywords": [
+    "github",
+    "dev-platform",
+    "developer",
+    "profile",
+    "dev-profile",
+    "github-profile"
+  ],
+  "author": "AnupamKP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnupamKP/dev-platform/issues"
+  },
+  "homepage": "https://github.com/AnupamKP/dev-platform#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
